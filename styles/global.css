@@ -1,9 +1,4 @@
-body{
-  width: 656px;
-  display: grid;
-  margin-inline: 64px;
-  margin-block: 64px;
-}
+
 *{
   margin: 0;
   padding: 0;
@@ -30,9 +25,7 @@ body{
   --h3:800 20px/120% var(--fonte-family);
   --h4:800 16px/120% var(--fonte-family);
 
-
-
-
-
-
+}
+body{
+  overflow: hidden;
 }
