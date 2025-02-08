@@ -13,3 +13,9 @@ legend{
   margin-bottom: 1.5rem;
 }
 
+
+/*quando eu tiver um fieldset e anterior a ele eu tiver um fieldset e assim q se ler */
+fieldset + fieldset{ 
+ margin-top: 3rem;
+
+}
