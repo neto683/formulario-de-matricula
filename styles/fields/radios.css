@@ -2,7 +2,7 @@
   margin-top: 1rem;
  }
 
- .radio-wrapper{
+ .radio-wrapper {
   display: grid;
   grid-template-columns: repeat(auto-fit, minmax(7.5rem, 1fr));/* auto-fit -->   siginifica encaixe automatico na segunda opcao eu coloco qual o minimo e o maximo que eu quero nessa coluna*/
   gap: 1rem;
